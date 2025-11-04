@@ -60,10 +60,16 @@ links:
       #title: "Github"
       #target: "_blank"
   - link:
-      text: "The Ultimate Grace Hopper Celebration Guide"
+      text: "Ultimate Grace Hopper Celebration Guide"
       url: "https://codewithkate.squarespace.com/blog/the-ultimate-grace-hopper-celebration-guide"
       alt: "Great guide on making the most of GHC 2025"
       title: "Great guide on making the most of GHC 2025"
+      target: "_blank"
+  - link:
+      text: "Work with me! We're Hiring!"
+      url: "https://devtechnology.com/careers/"
+      alt: "Dev Technology"
+      title: "Dev Technology"
       target: "_blank"
   #- link:
       #icon: "fa-brands fa-swift"
