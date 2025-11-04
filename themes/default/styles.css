@@ -48,7 +48,7 @@ a {
   font-size: 16px;
   margin-bottom: 30px;
   line-height: 1.6;
-  color: #F564A9;
+  color: white;
 }
 
 .links {
@@ -62,7 +62,7 @@ a {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  background-color: #f0f0f0;
+  background-color: #F564A9;
   color: black;
   padding: 15px;
   border-radius: 8px;
@@ -72,7 +72,7 @@ a {
 }
 
 .link-button:hover {
-  background-color: #e0e0e0;
+  background-color: #FAA4BD;
   transform: scale(1.05);
 }
 
@@ -146,16 +146,16 @@ a {
   }
 
   .description {
-    color: #F564A9;
+    color: white;
   }
 
   .link-button {
-    background-color: #21262d;
+    background-color: #F564A9;
     color: white;
   }
 
   .link-button:hover {
-    background-color: #30363d;
+    background-color: #FAA4BD;
   }
 
   .icon-button {
