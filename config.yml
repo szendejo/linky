@@ -44,7 +44,7 @@ tagline: >-
 # url: The URL of the link
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
-#links:
+links:
   #- link:
       #icon: "fa-brands fa-linkedin"
       #text: "Let's Connect On LinkedIn!"
@@ -59,13 +59,13 @@ tagline: >-
       #alt: "Github"
       #title: "Github"
       #target: "_blank"
-  #- link:
-      #icon: "fa-solid fa-rss"
-      #text: "Website"
-      #url: "https://zhgchg.li/"
-      #alt: "ZhgChgLi's Website"
-      #title: "ZhgChgLi's Website"
-      #target: "_blank"
+  - link:
+      icon: "fa-solid fa-rss"
+      text: "The Ultimate Grace Hopper Celebration Guide"
+      url: "https://codewithkate.squarespace.com/blog/the-ultimate-grace-hopper-celebration-guide"
+      alt: "Great guide on making the most of GHC 2025"
+      title: "Great guide on making the most of GHC 2025"
+      target: "_blank"
   #- link:
       #icon: "fa-brands fa-swift"
       #text: "ZMarkupParser <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMarkupParser']}} Stars)</span>"
