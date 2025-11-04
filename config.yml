@@ -31,7 +31,7 @@ title: "Stephanie's Links"
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "Stephanie Zendejo"
+#name: "Stephanie Zendejo"
 
 # Tagline section text
 tagline: >-
@@ -44,21 +44,21 @@ tagline: >-
 # url: The URL of the link
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
-links:
-  - link:
-      icon: "fa-brands fa-linkedin"
-      text: "Let's Connect On LinkedIn!"
-      url: "https://www.linkedin.com/in/szendejo/"
-      alt: "LinkedIn"
-      title: "LinkedIn"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-github"
-      text: "Github"
-      url: "https://github.com/szendejo"
-      alt: "Github"
-      title: "Github"
-      target: "_blank"
+#links:
+  #- link:
+      #icon: "fa-brands fa-linkedin"
+      #text: "Let's Connect On LinkedIn!"
+      #url: "https://www.linkedin.com/in/szendejo/"
+      #alt: "LinkedIn"
+      #title: "LinkedIn"
+      #target: "_blank"
+  #- link:
+      #icon: "fa-brands fa-github"
+      #text: "Github"
+      #url: "https://github.com/szendejo"
+      #alt: "Github"
+      #title: "Github"
+      #target: "_blank"
   #- link:
       #icon: "fa-solid fa-rss"
       #text: "Website"
@@ -102,43 +102,43 @@ links:
 # url: The URL of the social media link
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
-#socials:
+socials:
   #- social:
       #icon: "fa-brands fa-medium"
       #url: "https://blog.zhgchg.li"
       #title: "ZhgChgLi's Medium"
       #alt: "ZhgChgLi's Medium"
       #target: "_blank"
-  #- social:
-      #icon: "fa-brands fa-github"
-      #url: "https://github.com/szendejo"
-      #title: "Stephanie's GitHub"
-      #alt: "Stephanie's GitHub"
-      #target: "_blank"
+  - social:
+      icon: "fa-brands fa-github"
+      url: "https://github.com/szendejo"
+      title: "Stephanie's GitHub"
+      alt: "Stephanie's GitHub"
+      target: "_blank"
   #- social:
       #icon: "fa-brands fa-twitter"
       #url: "https://twitter.com/zhgchgli"
       #title: "ZhgChgLi's Twitter"
       #alt: "ZhgChgLi's Twitter"
       #target: "_blank"
-  #- social:
-      #icon: "fa-brands fa-linkedin"
-      #url: "https://www.linkedin.com/in/szendejo/"
-      #title: "Stephanie's LinkedIn"
-      #alt: "Stephanie's LinkedIn"
-      #target: "_blank"
+  - social:
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/szendejo/"
+      title: "Stephanie's LinkedIn"
+      alt: "Stephanie's LinkedIn"
+      target: "_blank"
   #- social:
       #icon: "fa-brands fa-instagram"
       #url: "https://www.instagram.com/zhgchgli/"
       #title: "Instagram"
       #alt: "ZhgChgLi's Instagram"
       #target: "_blank"
-  #- social:
-      #icon: "fa-solid fa-envelope"
-      #url: "mailto:zendejostephanie@gmail.com"
-      #title: "Email: zendejostephanie@gmail.com"
-      #alt: "zendejostephanie@gmail.com"
-      #target: "_blank"
+  - social:
+      icon: "fa-solid fa-envelope"
+      url: "mailto:zendejostephanie@gmail.com"
+      title: "Email: zendejostephanie@gmail.com"
+      alt: "zendejostephanie@gmail.com"
+      target: "_blank"
 
 # Footer text
 #footer: >
@@ -147,4 +147,4 @@ links:
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2025  <a href="https://szendejo.github.io/linky/" target="_blank">SZendejo</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © 2025  <a href="https://szendejo.github.io/linky/" target="_blank">szendejo</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
