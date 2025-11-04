@@ -60,7 +60,6 @@ links:
       #title: "Github"
       #target: "_blank"
   - link:
-      icon: "fa-solid fa-rss"
       text: "The Ultimate Grace Hopper Celebration Guide"
       url: "https://codewithkate.squarespace.com/blog/the-ultimate-grace-hopper-celebration-guide"
       alt: "Great guide on making the most of GHC 2025"
